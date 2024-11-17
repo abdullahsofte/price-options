@@ -1,0 +1,77 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Plan",
+      "price": 29.99,
+      "features": [
+        "Basic subscription plan",
+        "Access to standard content",
+        "Support via email",
+        "Stream on 1 device"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard Plan",
+      "price": 59.99,
+      "features": [
+        "Standard subscription",
+        "Ad-free browsing",
+        "HD content streaming",
+        "Stream on 2 devices simultaneously",
+        "Offline viewing"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium Plan",
+      "price": 99.99,
+      "features": [
+        "Premium subscription",
+        "Exclusive content access",
+        "4K UHD streaming",
+        "Stream on 4 devices simultaneously",
+        "Priority email and chat support",
+        "Download and watch offline"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Family Plan",
+      "price": 149.99,
+      "features": [
+        "Family plan (up to 5 profiles)",
+        "Parental controls",
+        "Ad-free experience",
+        "4K UHD streaming on all devices",
+        "Offline access for all profiles",
+        "Monthly analytics for parents"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Event Pass",
+      "price": 19.99,
+      "features": [
+        "Single event access",
+        "Full HD quality",
+        "24-hour access to content",
+        "One-click streaming setup"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Annual Membership",
+      "price": 199.99,
+      "features": [
+        "Annual membership",
+        "Access to all exclusive content",
+        "4K UHD and HDR support",
+        "Stream on unlimited devices",
+        "Priority 24/7 support",
+        "Special discounts on partner services",
+        "Invitations to member-only events"
+      ]
+    }
+  ]
+  

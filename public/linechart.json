@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Alice",
+      "math": 85,
+      "english": 78,
+      "science": 92
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "math": 72,
+      "english": 88,
+      "science": 81
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "math": 90,
+      "english": 95,
+      "science": 89
+    },
+    {
+      "id": 4,
+      "name": "Diana",
+      "math": 68,
+      "english": 74,
+      "science": 80
+    },
+    {
+      "id": 5,
+      "name": "Eve",
+      "math": 95,
+      "english": 89,
+      "science": 94
+    },
+    {
+      "id": 6,
+      "name": "Frank",
+      "math": 78,
+      "english": 82,
+      "science": 88
+    },
+    {
+      "id": 7,
+      "name": "Grace",
+      "math": 88,
+      "english": 91,
+      "science": 85
+    },
+    {
+      "id": 8,
+      "name": "Henry",
+      "math": 60,
+      "english": 75,
+      "science": 70
+    },
+    {
+      "id": 9,
+      "name": "Ivy",
+      "math": 92,
+      "english": 94,
+      "science": 90
+    },
+    {
+      "id": 10,
+      "name": "Jack",
+      "math": 70,
+      "english": 68,
+      "science": 72
+    }
+  ]
+  

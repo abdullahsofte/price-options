@@ -1,14 +1,20 @@
 import './App.css'
+import Navber from './components/Navber/Navber'
+import PriceOptions from './components/PriceOptions/PriceOptions'
+import LineChart from './components/LineChart/LineChart'
 
 function App() {
 
   return (
-    <>
-   
-      <h1>React and Tailwind css</h1>
+    <div className='w-10/12 m-auto'>
+      <Navber></Navber>
+
+      <PriceOptions></PriceOptions>
+
+      <LineChart></LineChart>
       
      
-    </>
+    </div>
   )
 }
 
